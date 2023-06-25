@@ -1,6 +1,6 @@
 # netris
 
-Скомпилированная программа: https://drive.google.com/file/d/1EZy3ohIMFci4fZKkZGWMjYJWFZrqi5x7/view?usp=sharing
+Скомпилированная программа (запускать с гпу. ГПУ доступна, если есть галочка "Использовать гпу"): https://drive.google.com/file/d/1EZy3ohIMFci4fZKkZGWMjYJWFZrqi5x7/view?usp=sharing
 
 Запускать dist/main/run.exe
 
