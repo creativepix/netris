@@ -1,6 +1,6 @@
 # netris
 
-Скомпилированная программа (запускать с гпу. ГПУ доступна, если есть галочка "Использовать гпу"): https://drive.google.com/file/d/1EZy3ohIMFci4fZKkZGWMjYJWFZrqi5x7/view?usp=sharing
+Скомпилированная программа (запускать ТОЛЬКО с гпу. "Использовать гпу" не менять): https://drive.google.com/file/d/1EZy3ohIMFci4fZKkZGWMjYJWFZrqi5x7/view?usp=sharing
 
 Если у вас не установлен video codec (в этом случае видео не будет читаться), то рекоммендуется установить KLite: https://codecguide.com/download_k-lite_codec_pack_basic.htm
 
