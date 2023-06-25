@@ -1,0 +1,1 @@
+pyuic5 ui/qtdesigner/main_interface.ui -o ui/qtdesigner/main_interface.py
