@@ -2,6 +2,8 @@
 
 Скомпилированная программа (запускать с гпу. ГПУ доступна, если есть галочка "Использовать гпу"): https://drive.google.com/file/d/1EZy3ohIMFci4fZKkZGWMjYJWFZrqi5x7/view?usp=sharing
 
+Если у вас не установлен video codec, то рекоммендуется установить KLite: https://codecguide.com/download_k-lite_codec_pack_basic.htm
+
 Запускать dist/main/run.exe
 
 Формат выходного json:
