@@ -1,5 +1,9 @@
 # netris
 
+Скомпилированная программа: https://drive.google.com/file/d/1EZy3ohIMFci4fZKkZGWMjYJWFZrqi5x7/view?usp=sharing
+
+Запускать dist/main/run.exe
+
 Формат выходного json:
 
 [
